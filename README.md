@@ -8,7 +8,7 @@ Existing works focus on extracting forgery features using label information, and
 
 Experimental results show that the proposed method significantly improves localization accuracy and generalization capability in challenging forgery scenarios, achieving an F1-score improvement of nearly 5% compared with state-of-the-art methods across multiple benchmark datasets.
 
-![image-20251010102713461](image\image-20251010102713461.png)
+![image-20251010102713461](.\image\image-20251010102713461.png)
 
 ## Get Started
 
@@ -23,8 +23,8 @@ python main.py
 
 **Intra-domain Accuracy Comparison.** Table 1 reports each method's localization performance in terms of F1 score and AUC. We observe that SDPAL achieves the highest performance on FantasticReality, IMD2020, and TampCOCO datasets.
 
-![image-20251010103352612](image\image-20251010103352612.png)
+![image-20251010103352612](.\image\image-20251010103352612.png)
 
 **Cross-domain Generalization Comparison.** As shown in Table 2, on the COVERAGE test set, SDPAL achieved F1 and AUC scores second only to SAFIRE, a method proposed in 2025. This indicates that SDPAL demonstrates superior anti-interference capability and robustness compared to other methods when handling high-fidelity tampering scenarios.
 
-![image-20251010103553436](image\image-20251010103553436.png)
+![image-20251010103553436](.\image\image-20251010103553436.png)
