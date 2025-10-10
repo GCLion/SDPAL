@@ -27,4 +27,4 @@ python main.py
 
 **Cross-domain Generalization Comparison.** As shown in Table 2, on the COVERAGE test set, SDPAL achieved F1 and AUC scores second only to SAFIRE, a method proposed in 2025. This indicates that SDPAL demonstrates superior anti-interference capability and robustness compared to other methods when handling high-fidelity tampering scenarios.
 
-![image-20251010103553436](image/image-20251010103553436.png)
+<img src="image/image-20251010103553436.png" alt="image-20251010103553436" style="zoom:80%;" />
